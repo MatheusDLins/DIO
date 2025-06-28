@@ -1,10 +1,10 @@
 frutas = ("laranja", "maca", "uva")
 
-letras = tuple("python")
+letras = tuple("python",)
 
 numeros = tuple([1, 2, 3, 4])
 
-pais = ("Brasil")
+pais = ("Brasil",)
 
 frutas = ("maça", "laranja", "maca", "uva", "laranja")
 frutas[0]
